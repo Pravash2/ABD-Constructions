@@ -308,14 +308,15 @@
     width: 462px;
   }
   .header-container {
-    padding: 26px 0;
+    padding: 5px 0;
   }
   .header h1 {
     font-size: 1.3rem;
     width: 70%;
   }
   .header .logo img {
-    width: 50px;
+    width: 60px;
+    margin-left: -20px;
     /*float: left;*/
   }
   .header .logo {
